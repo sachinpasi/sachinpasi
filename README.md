@@ -31,6 +31,12 @@ I am also Pursuing my Bachelor in **Computer Science & Engineering** and will gr
 
 ### Back-End Development
 
+![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
 
 ## 📈 Stats
 
@@ -41,4 +47,8 @@ I am also Pursuing my Bachelor in **Computer Science & Engineering** and will gr
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=sachinpasi.sachinpasi" alt="visitors">
 </div>
+
+## 🔗 Links
+
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sachin-pasi-7713191b6/)
 
