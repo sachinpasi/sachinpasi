@@ -14,11 +14,7 @@ React, TypeScript, Node.js and AWS, with a bias for systems that are easy to cha
 
 ## Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,aws,docker,mongodb,postgres,redis&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,aws,docker,mongodb,postgres,redis&theme=light">
-  <img alt="React, Next.js, TypeScript, Node.js, Express, AWS, Docker, MongoDB, PostgreSQL, Redis" src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,aws,docker,mongodb,postgres,redis&theme=light">
-</picture>
+![React, Next.js, TypeScript, Node.js, Express, AWS, Docker, MongoDB, PostgreSQL, Redis](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,aws,docker,mongodb,postgres,redis&theme=dark)
 
 - **Frontend:** React, Next.js, TypeScript, Redux Toolkit, Tailwind CSS, micro-frontends
 - **Backend:** Node.js, Express, Koa, REST, GraphQL, microservices
